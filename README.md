@@ -34,7 +34,7 @@ Once your repository is set up, practice what you learned today to style the sit
 
 - [x] Link your CSS stylesheet in the `index.html` and implement a CSS reset 
 - [x] Markup html semantically, such that it can be styled according to the given desktop image
-- [ ] Color the background of items in the navigation bar and footer with the following colors:
+- [x] Color the background of items in the navigation bar and footer with the following colors:
   - [ ] Plan your Visit: `#FF764E`
   - [ ] Learn About the Park: `#5ED3EB`
   - [ ] Get Involved: `#FFCD69`
