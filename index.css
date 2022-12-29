@@ -7,24 +7,39 @@ nav a {
     color: black;
     text-decoration: none;
 }
+header {
+    text-align: center;
+}
+
+nav a {
+    color: white;
+}
 
 nav #plan {
     background-color: #FF764E;
     }
 
-nav #learn {
-    background-color: #5ED3EB;
+nav a:hover {
+    color: black;
+}
+nav #plan:hover {
+    background-color: #f8b6a2;
     }
+
+nav #learn {
+background-color: #5ED3EB;
+}
 
 nav #involve {
     background-color: #FFCD69;
     }
 
 /*H1 Header area YOSEMITE PARK GUIDE */
- p .involved {
+ p {
     margin: 10px;
     padding: 20px;
-    font: Ch
+    font: chelsea market;
+
  }
 
 
@@ -32,4 +47,10 @@ nav #involve {
 
 
 
-/*Invovled Section*/
+/*Invovled Section*/ 
+
+/*footer*/
+footer {
+    text-align: center;
+    background-color: pink;
+}
